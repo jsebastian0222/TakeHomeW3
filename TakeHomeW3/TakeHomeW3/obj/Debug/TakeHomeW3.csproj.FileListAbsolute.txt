@@ -1,0 +1,12 @@
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\bin\Debug\TakeHomeW3.exe.config
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\bin\Debug\TakeHomeW3.exe
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\bin\Debug\TakeHomeW3.pdb
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.csproj.AssemblyReference.cache
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.Form1.resources
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.Form2.resources
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.Properties.Resources.resources
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.csproj.GenerateResource.cache
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.csproj.CoreCompileInputs.cache
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.exe
+C:\Users\ju4ns\source\repos\TakeHomeW3\TakeHomeW3\obj\Debug\TakeHomeW3.pdb
